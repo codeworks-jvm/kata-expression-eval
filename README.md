@@ -29,4 +29,4 @@ using `eval(variableMap)`. The `variableMap` associate a name of a variable to i
   System.out.println(result);  // 25
 ```
 
-So you can start with a specific version and rewrite the code up to the point where you are using Java 17 with the preview features enabled.
+So you can use the last Java LTS version `17`.
