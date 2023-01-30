@@ -2,7 +2,7 @@
 
 ### Expression tree
 
-The idea of this kata is to implement a simple expression tree able to represent the following expressions
+The idea of this kata is to implement a simple expression tree able to represent the following expressions : 
 - `Value` is a literal integer
 - `Add` is an integer addition
 - `Mul` is an integer multiplication
