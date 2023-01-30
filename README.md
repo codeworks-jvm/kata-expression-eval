@@ -8,7 +8,7 @@ The idea of this kata is to implement a simple expression tree able to represent
 - `Mul` is an integer multiplication
 - `Var` is a variable (it's value will be pass when evaluating the expression).
 
-Each expression is implemented by a Java class, here is an example of usage
+Each expression is implemented by a Java class, here is an example of usage : 
 ```java
   Value value = new Value(13);
   Add add = new Add(new Value(4), new Add(new Value(3), new Value(7)));
